@@ -40,9 +40,9 @@ Currently building:
 
 ## 📫 Contact
 
-- 📧 kamilob1224@gmail.com  
-- 💼 LinkedIn (coming soon)  
-- 🌐 Portfolio: mi-portafolio-dun-six.vercel.app  
+- 📧 [Contact me](mailto:kamilob1224@gmail.com?subject=Work%20Opportunity&body=Hi%20Kamilo,%20I%20saw%20your%20portfolio...)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-kamilo-blandon-velez-4a6452187/) 
+- 🌐 [Portfolio](https://kamilob.dev)
 
 ---
 
@@ -90,9 +90,9 @@ Actualmente construyendo:
 
 ## 📫 Contacto
 
-- 📧 kamilob1224@gmail.com  
-- 💼 LinkedIn (próximamente)  
-- 🌐 Portafolio: mi-portafolio-dun-six.vercel.app  
+- 📧 [Contacto](mailto:kamilob1224@gmail.com?subject=Work%20Opportunity&body=Hi%20Kamilo,%20I%20saw%20your%20portfolio...)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-kamilo-blandon-velez-4a6452187/)  
+- 🌐 [Portafolio](https://kamilob.dev)
 
 ---
 
